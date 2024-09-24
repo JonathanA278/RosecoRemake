@@ -1,0 +1,27 @@
+.jumbotron {
+    background-image: url("../img/bg.png");
+    background-position: top;
+    height: 400px;
+    background-size: cover;
+}
+
+.btn-orange {
+    background-color: #FF852D;
+    color: white;
+}
+
+.Header {
+    color: white;
+}
+
+.nav {
+    color: white;
+}
+
+.user{
+    padding-left: 15px;
+}
+
+.logo {
+    padding-left: 75px;
+}
